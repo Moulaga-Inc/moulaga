@@ -1,0 +1,30 @@
+.topnav {
+    background-color: rgb(238, 197, 17);
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #a3741d;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .topnav a:hover {
+    background-color: rgb(255, 255, 255);
+    color: #a3741d;
+  }
+
+  .topnav a:hover {
+      font-family: 'Epilogue', sans-serif;
+  }
+
+  .cettesemaine {
+      font-family: 'Epilogue', sans-serif;
+  }
+
+  .prochainement {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+  }
