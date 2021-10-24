@@ -1,25 +1,36 @@
-.topnav {
-    background-color: rgb(238, 197, 17);
-    overflow: hidden;
-  }
-  
-  .topnav a {
-    float: left;
-    color: #a3741d;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(238, 197, 17);
+}
 
-  .topnav a:hover {
-    background-color: rgb(255, 255, 255);
-    color: #a3741d;
-  }
+li {
+  float: left;
+}
 
-  .topnav a:hover {
-      font-family: 'Epilogue', sans-serif;
-  }
+ul {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+li a {
+  display: block;
+  color: #a3741d;
+  text-align: center;
+  font-family: 'Epilogue', sans-serif;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.4s;
+}
+
+li a:hover {
+  background-color: #a3741d;
+  color: rgb(238, 197, 17);
+  transition: 0.4s;
+}
 
   .cettesemaine {
       font-family: 'Epilogue', sans-serif;
