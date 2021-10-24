@@ -1,24 +1,35 @@
-.topnav {
-    background-color: rgb(238, 197, 17);
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
     overflow: hidden;
+    background-color: rgb(238, 197, 17);
   }
   
-  .topnav a {
+  li {
     float: left;
+  }
+
+  ul {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+
+  li a {
+    display: block;
     color: #a3741d;
     text-align: center;
+    font-family: 'Epilogue', sans-serif;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    transition: 0.4s;
   }
-
-  .topnav a:hover {
-    background-color: rgb(255, 255, 255);
-    color: #a3741d;
-  }
-
-  .topnav a:hover {
-      font-family: 'Epilogue', sans-serif;
+  
+  li a:hover {
+    background-color: #a3741d;
+    color: rgb(238, 197, 17);
+    transition: 0.4s;
   }
 
   .stylesheet {
@@ -31,4 +42,24 @@
 
   .lesaistu2 {
   font-family: 'Fira Sans Condensed', sans-serif;
+  }
+
+  button {
+    background-color: rgb(238, 197, 17); 
+    color: #a3741d;
+    font-family: 'Epilogue', sans-serif;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    display: inline-block;
+    font-size: 16px;
+    border: 2px solid rgb(238, 197, 17);
+    transition-duration: 0.4s;
+  }
+
+  button:hover {
+    background-color: #a3741d;
+    color: rgb(238, 197, 17);
+    border: 2px solid #a3741d;
   }
