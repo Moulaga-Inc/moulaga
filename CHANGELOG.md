@@ -1,5 +1,4 @@
 ## 2.0.0
-Full Changes
-
+Changement quasi-intégral du site avec de nouvelles pages, une meilleure qualité graphique et des transitions plus fluides.
 ## 1.01 
-First Release
+Première version officielle
