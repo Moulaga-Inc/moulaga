@@ -67,6 +67,7 @@ li a:hover {
     font-size: 16px;
     border: 2px solid rgb(238, 197, 17);
     transition-duration: 0.4s;
+    cursor: pointer;
   }
 
   button:hover {
