@@ -1,7 +1,7 @@
 # Moulaga
 ## Présentation
-Ce site est celui de Moularche et de Moulaga Incorporation.
-Les informations et annonces de Moularche seront affichés [ici](https://moulaga-inc.github.io/moulaga/).
+Ce site appartient à la Moulaga Incorporation et publie des informations à propos de Moul'arche.
+Les informations et annonces de Moul'arche seront affichées [ici](https://moulaga-inc.github.io/moulaga/).
 ## Changements
 Allez sur [CHANGELOG.md](CHANGELOG.md)
 ## Contributeurs
