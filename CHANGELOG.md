@@ -1,7 +1,6 @@
 ## 2.1.0 
-Changements et modifications 
-
+Changements et modifications
 ## 2.0.0
-Changement quasi-intégral du site avec de nouvelles pages, une meilleure qualité graphique et des transitions plus fluides.
-## 1.01 
+Changements importants apportés au site avec de nouvelles pages, une meilleure charte graphique et des transitions plus fluides.
+## 1.0.0
 Première version officielle
