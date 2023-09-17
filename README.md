@@ -1,7 +1,7 @@
 # Moulaga Incorporation, propriété publique de la Moularchie.
 ## Présentation
-Ce site appartient à la Moulaga Incorporation et publie des informations à propos de cette dernière et Moul'arche.
-Les informations et annonces de Moul'arche et de la Moulaga Incorporation seront affichées [ici](https://moulaga-inc.github.io/moulaga/). Si cette page a été affichée lors de votre connexion au site de la Moulaga Incorporation, cela veut dire que le site est en maintenance. Dans ce cas-là, merci de repasser sur le site ultérieurement.
+Ce site appartient à la Moulaga Incorporation et publie des informations au sujet de Moul'arche, la Moularchie et la Moulaga Incorporation.
+Les informations et annonces de la Moularchie seront affichées [ici](https://moulaga-inc.github.io/moulaga/). Si vous avez été redirigé sur cette page lors de votre connexion au site, cela veut dire que ce dernier est en maintenance. Dans le cas échéant, merci de repasser sur le site ultérieurement.
 ## Changements
 Allez sur [CHANGELOG.md](CHANGELOG.md)
 ## Contributeurs
