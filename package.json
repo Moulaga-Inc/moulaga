@@ -1,0 +1,31 @@
+{
+	"name": "moulaga",
+	"version": "1.0.0",
+	"description": "The official Moularchy's website",
+	"main": "dist/main.js",
+	"scripts": {
+		"start:dev": "ts-node src/main.ts",
+		"start:watch": "nodemon src/main.ts",
+		"start:prod": "cross-env NODE_ENV=production node .",
+		"build": "tsc",
+		"clean": "rimraf dist/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Moulaga-Inc/moulaga.git"
+	},
+	"bugs": {
+		"url": "https://github.com/Moulaga-Inc/moulaga/issues"
+	},
+	"homepage": "https://github.com/Moulaga-Inc/moulaga#readme",
+	"author": "Devarchy",
+	"license": "UNLICENSED",
+	"devDependencies": {
+		"cross-env": "^7.0.3",
+		"nodemon": "^3.0.2",
+		"rimraf": "^5.0.5",
+		"ts-node": "^10.9.2",
+		"typescript": "^5.3.3"
+	}
+}
+
